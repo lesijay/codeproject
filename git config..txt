@@ -1,0 +1,13 @@
+AMBASSADOR@DESKTOP-DH48A2J MINGW64 ~/Documents
+$ cd
+
+AMBASSADOR@DESKTOP-DH48A2J MINGW64 ~
+$ start .
+
+AMBASSADOR@DESKTOP-DH48A2J MINGW64 ~
+$ mv bash_profile .bash_profile
+
+AMBASSADOR@DESKTOP-DH48A2J MINGW64 ~
+$ mv udacity-terminal-config .udacity-terminal-config
+
+AMBASSADOR@DESKTOP-DH48A2J MINGW64 ~
